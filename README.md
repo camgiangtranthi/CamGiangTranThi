@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camgiangtranthi
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? My phone nmumber: 0359590410
 
