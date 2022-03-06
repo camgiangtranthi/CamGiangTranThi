@@ -6,5 +6,5 @@
 - 📫 How to reach me? camgiangtranthi2310@gmail.com
 
 <b>Connect with me:</b>
-<a href="https://www.linkedin.com/in/cẩm-giang-9aaa5621a/"><i class="fa-brands fa-linkedin-in"></i></a>
+<i class="fa-brands fa-linkedin-in">
 
