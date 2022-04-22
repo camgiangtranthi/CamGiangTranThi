@@ -1,5 +1,5 @@
 <h2>Hello I'm Giang < DEVELOPER /> 👋🏼 </h2>
-<!--   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
+
   <p><i>Ideas don't get smaller when they're shared, they get bigger</i></p>
   
  
