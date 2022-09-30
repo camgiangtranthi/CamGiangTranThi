@@ -16,7 +16,7 @@ const gale = {
     technologies:{
         backEnd: ["nodejs", "express", "php"],
         frontEnd: {
-            js: ["react"],
+            js: ["react", "jquery"],
             css: ["ant", "bootstrap", "materialui"],
         },
         database: ["mongo","mySql"],
