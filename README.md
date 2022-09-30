@@ -4,7 +4,7 @@
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
 - :seedling: I’m interested in frontend, API's, and currently learning about PHP, typescript and NodeJs.
-- ⚙️  I use daily: `.php`, `.js`, `.html`, `.css`, `.ts`, `.tsx`, `.scss`
+- ⚙️  I use daily: `.php`,`.tpl`, `.js`, `.html`, `.css`, `.ts`, `.tsx`, `.scss`
 
 ### 🚀 A little more about me...
 
