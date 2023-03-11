@@ -32,10 +32,6 @@ const gale = {
   
 </div>
 
-<!-- <p><i>Ideas don't get smaller when they're shared, they get bigger</i></p>
-
-<p><sub><b>Seth Godin</b></sub></p> -->
-
 ------
 
 Credit: [camgiangtranthi](https://github.com/camgiangtranthi)
